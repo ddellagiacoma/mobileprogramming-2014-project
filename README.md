@@ -91,3 +91,7 @@ Alcuni utenti hanno trovato l’idea dell’applicazione come molto utile e hann
 ## Limitations
 
 Il principale problema dell’applicazione è quello di avere uno scambio di informazioni tra client e server che limita fortemente la fluidità nella navigazione tra le varie schermate. Un altro problema è relativo alla creazione delle feste, ovvero un utente non è controllato quindi potrebbe riempire il database con informazioni inutili.
+
+## Code appendix
+
+Le parti del progetto sono due, la parte **client** (Party4Party) con le varie classi Java e i file .xml e la parte **server** che contiene tutte le servlet e le query.
